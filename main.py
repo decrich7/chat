@@ -6,13 +6,15 @@ from pywebio import start_server
 from pywebio.input import *
 from pywebio.output import *
 from pywebio.session import defer_call, info as session_info, run_async, run_js
-
+import os
 chat_msgs = []
 chat_msgs_enc = []
 online_users = set()
 rsa = Rsa('математика')
 keys = rsa.generate_enc_message()
 MAX_MESSAGES_COUNT = 100
+port = int(os.getenv('PORT', 8080))
+
 
 
 
@@ -99,4 +101,4 @@ async def refresh_msg(nickname, msg_box, msg_box_enc):
 
 
 if __name__ == "__main__":
-    start_server(main, debug=True, port=8080, cdn=False)
+    start_server(main, debug=True, port=port, cdn=False)
