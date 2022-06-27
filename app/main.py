@@ -11,10 +11,10 @@ import random
 import os
 
 app = Flask(__name__, template_folder='templates')
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db/blogs.db?check_same_thread=False'
+# app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///db/blogs.db?check_same_thread=False'
 
 app.config['SECRET_KEY'] = 'b0-sdb-0sbdfb0-bgf0sb-db0vf'
-db_session.global_init("db/blogs.db")
+# db_session.global_init("db/blogs.db")
 
 
 # login_manager = LoginManager()
