@@ -4,63 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="076126c1-f905-47b0-917a-b933db86bd5c" name="Changes" comment="sa">
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/bootstrap-vue.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/bootstrap-vue.min1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/bootstrap.min1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-accordion.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-advantages.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-chevron-down.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-core.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-core1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-cover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-form1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th11.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th21.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th3.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th31.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th4.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th41.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th5.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th51.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th6.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th61.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-title.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/img/27eec8c2a5ac8e1bd8bb80dfdb069d06.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/img/2b1136d60b35bb6a687a2ea3851c0690.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/img/2f9cd81ed7e439bc6507acb21d0ca5d6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/img/a34cad2a2dca9f61f5e6768320e58e5f.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/img/c65c34b9f5077c174cab5fef25c0b4e6.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/main1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/smoothscroll-min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/validate.min1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/templates/Page 2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/templates/Page 3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/templates/Портал Сбора Медицинских Данных.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/chat.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final" beforeDir="false" afterPath="$PROJECT_DIR$/CDSM_Final" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/_Samples.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/ss.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final/app/data/db_session.py" beforeDir="false" afterPath="$PROJECT_DIR$/CDSM_Final/app/data/db_session.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CDSM_Final/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CDSM_Final/app/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="076126c1-f905-47b0-917a-b933db86bd5c" name="Changes" comment="sajj" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,6 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="exceleditor.install" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/CDSM_Final/app/static" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -140,6 +85,14 @@
       <option name="presentableId" value="Default" />
       <updated>1652203193767</updated>
     </task>
+    <task id="LOCAL-00001" summary="sajj">
+      <created>1656314165369</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656314165369</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sajj" />
+    <option name="LAST_COMMIT_MESSAGE" value="sajj" />
   </component>
 </project>
