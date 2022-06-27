@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="076126c1-f905-47b0-917a-b933db86bd5c" name="Changes" comment="sa">
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/bootstrap-vue.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/bootstrap-vue.min1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/bootstrap.min1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-accordion.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-advantages.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-chevron-down.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-core.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-core1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-cover.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-form1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-text.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th11.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th21.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th31.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th41.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th5.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th51.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-theme-th61.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/cli-title.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/img/27eec8c2a5ac8e1bd8bb80dfdb069d06.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/img/2b1136d60b35bb6a687a2ea3851c0690.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/img/2f9cd81ed7e439bc6507acb21d0ca5d6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/img/a34cad2a2dca9f61f5e6768320e58e5f.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/img/c65c34b9f5077c174cab5fef25c0b4e6.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/main1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/smoothscroll-min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/static/validate.min1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/templates/Page 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/templates/Page 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CDSM_Final/app/templates/Портал Сбора Медицинских Данных.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chat.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final" beforeDir="false" afterPath="$PROJECT_DIR$/CDSM_Final" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/_Samples.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/ss.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final/app/data/db_session.py" beforeDir="false" afterPath="$PROJECT_DIR$/CDSM_Final/app/data/db_session.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CDSM_Final/app/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/CDSM_Final/app/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Blank Requirements File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/CDSM_Final" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="28yybkxSm1xDlTbLQKfmUS30ERw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="exceleditor.install" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CDSM_Final/app/static" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\PAJILOY PAVUK\PycharmProjects\chat\CDSM_Final\app\static" />
+      <recent name="C:\Users\PAJILOY PAVUK\PycharmProjects\chat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\PAJILOY PAVUK\PycharmProjects\chat\CDSM_Final\app\templates" />
+      <recent name="C:\Users\PAJILOY PAVUK\PycharmProjects\chat\CDSM_Final\app\static\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chat" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CDSM_Final/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CDSM_Final/app/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="076126c1-f905-47b0-917a-b933db86bd5c" name="Changes" comment="" />
+      <created>1652203193767</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652203193767</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
